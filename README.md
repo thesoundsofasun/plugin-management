@@ -3,7 +3,6 @@ This repository is created to collect information about vst plugins and digital 
 
 | Developer / Plugin | Config Path | Presets Path | Samples | Cache / Logs | Temp |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
 | 🟢**23DSP**  | - | - | - | - | - |
 | 🟢**Air-G**  | - | - | - | - | - |
 | 🟢**Airwindows Consolidated** | `%APPDATA%\AirwindowsConsolidated` | - | - | - | - |
