@@ -9,6 +9,7 @@ This repository is created to collect information about vst plugins and digital 
 | 🔴**Baby Audio** | `C:\ProgramData\Baby Audio` | `C:\ProgramData\Baby Audio` | - | - | - |
 | 🔴**blepfx / unplugred** | `%APPDATA%\Sucrose` | - | - | - | - |
 | 🔴**Decent Sampler** | - | - | `%APPDATA%\Decidedly\DecentSampler` | `%APPDATA%\DecentSampler` | `%temp%\DecentSampler` |
+| 🔴**GenuineSoundware** | - | - | - | `%APPDATA%\GenuineSoundware` | - |
 | 🔴**HoRNet** | - | - | - | `%LOCALAPPDATA%\HoRNet` | - |
 | 🔴**Illformed** | `%APPDATA%\Glitch2` | - | - | - | - |
 | 🔴**Musical Entropy** | `%APPDATA%\Musical Entropy` | `%APPDATA%\Musical Entropy` | - | - | - |
