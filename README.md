@@ -45,16 +45,29 @@ This repository is created to collect information about vst plugins and digital 
 |  | AIR Tape Double Track | [FX] | [Modulation FX] | [Chorus & Ensemble] |
 |  | AIR Transient | [FX] | [Dynamics] | [Transient Shaper] |
 |  | Fly Tape II | [FX] | [Drive & Color] | [Drive & Color]  |
+| AngelicVibes | Elite Pianist | [Inst] | [Piano & Keys] | |
+| Antares | Mic Mod EFX | [FX] | [Vocal Processing] | |
+|  | Throat [Vocals] | [FX] | [Vocal Processing]| |
+| Apogee | SoftLimit | [FX] | [Drive & Color] | [Clipper] |
+| Applied Acoustics Systems | Lounge Lizard Session 4 | [Inst] | [Piano & Keys] | [Electric Piano] |
+|  | Objeq Delay | [FX] | [Delay] | [Special Delay] |
+|  | Strum Session 2 | [Inst] | [Guitar & Plucked] | |
+|  | Ultra Analog Session 2 | [FX] | [Romplers] | [Synthesizers] |
+| Artists in DSP | MYON – Somewhere Else Reverb | [FX] | [Reverb] | [Reverb] |
+| Arturia | Analog Lab Intro | [Inst] | [Romplers] | [Synthesizers] |
+|  | Augmented MALLETS Play | [Inst] | [Mallets] | |
+|  | Augmented STRINGS | [Inst] | [Synth Strings] | [Synth Strings] |
+|  | Chorus JUN-6 | [FX] | [Modulation FX] | [Chorus & Ensemble] |
+|  | Delay TAPE-201 | [FX] | [Delay] | [Analog Delay] |
+|  | Filter MS-20 | [FX] | [EQ & Filters] | [Filter] |
+|  | Pre 1973 | [FX] | [Mixing Console] | [Pre-Amp] |
+|  | Rev PLATE-140 | [FX] | [Reverb] | [Plate Reverb] |
+|  | Tape MELLO-FI | [FX] | [Drive & Color] | [Tape] |
 
-| AngelicVibes | :--- | :--- | :--- | :--- |
-| Antares | :--- | :--- | :--- | :--- |
-| Apogee | :--- | :--- | :--- | :--- |
-| Applied Acoustics Systems | Lounge Lizard Session 4 | [Inst] | [Piano & Keys] → [Electric Piano] |
-|   | Objeq Delay | [FX] | [Delay] → [Special Delay] |
-|   | Strum Session 2 | [Inst] | [Guitar & Plucked] |
-|   | Ultra Analog Session 2 | [FX] | [Romplers] → [Synthesizers] |
-| Artists in DSP | - | [FX] | [Delay] → [Special Delay] |
-| Arturia | - | [FX] | [Delay] → [Special Delay] |
+
+
+
+
 | Audified | :--- | :--- | :--- |
 | Audio Assault | :--- | :--- | :--- |
 | Audiolatry | :--- | :--- | :--- |
