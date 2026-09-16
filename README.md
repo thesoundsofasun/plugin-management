@@ -38,6 +38,7 @@ This repository is created to collect information about vst plugins and digital 
 | Acustica Audio | Cerise | [FX] | Mixing Console] | [Channel Strips] |
 | AIR Music Tech | AIR Amp Sim | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 |  | AIR Channel Strip | [FX] | [Mixing Console] | [Channel Strips] |
+|  | AIR Jura Chorus| [FX] | [Modulation FX] | [Chorus & Ensemble] |
 |  | AIR Multiband Filterbank | [FX] | [EQ & Filters] | [Filter] |
 |  | AIR Pitch Shifter | [FX] | [Pitch & Time] | [Pitch Shifter] |
 |  | AIR Stutter | [FX] | [Special FX] |  |
