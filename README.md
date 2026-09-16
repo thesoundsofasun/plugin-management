@@ -15,3 +15,31 @@ This repository is created to collect information about vst plugins and digital 
 | 🔴**Musical Entropy** | `%APPDATA%\Musical Entropy` | `%APPDATA%\Musical Entropy` | - | - | - |
 | 🔴**Sweet Audio** | `%APPDATA%\Sweet Audio` | `C:\ProgramData\Sweet Audio` | - | - | - |
 | 🔴**YSFX** | `%APPDATA%\ysfx_saike_mod` | - | - | - | - |
+
+# List of the plugins I own
+| Developer | Plugin name | Plugin type | Plugin category |
+| :--- | :--- | :--- | :--- |
+| Acon Digital | Acon Digital Limit | [FX] | [Dynamics] → [Limiter] |
+| Applied Acoustics Systems | Lounge Lizard Session 4 | [Inst] | [Piano & Keys] → [Electric Piano] |
+|   | Objeq Delay | [FX] | [Delay] → [Special Delay] |
+|   | Strum Session 2 | [Inst] | [Guitar & Plucked] |
+|   | Ultra Analog Session 2 | [FX] | [Romplers] → [Synthesizers] |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
+| Acon Digital | - | - |
