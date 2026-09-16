@@ -17,16 +17,37 @@ This repository is created to collect information about vst plugins and digital 
 | 🔴**YSFX** | `%APPDATA%\ysfx_saike_mod` | - | - | - | - |
 
 # List of the plugins I own
-| Developer | Plugin name | Plugin type | Plugin category |
-| :--- | :--- | :--- | :--- |
-| 2B Played Music | :--- | :--- | :--- |
-| A1Audio | :--- | :--- | :--- |
-| Acon Digital | Acon Digital Limit | [FX] | [Dynamics] → [Limiter] |
-| Acustica Audio | :--- | :--- | :--- |
-| AIR Music Tech  | :--- | :--- | :--- |
-| AngelicVibes | :--- | :--- | :--- |
-| Antares | :--- | :--- | :--- |
-| Apogee | :--- | :--- | :--- |
+| Developer | Plugin name | Plugin type | Plugin category | Plugin undercategory |
+| :--- | :--- | :--- | :--- | :--- |
+| 2B Played Music | 2B Clipped 2 | [FX] | [Drive & Color] | [Clipper] |
+|  | 2B Clipped 3 | [FX] | [Drive & Color] | [Clipper] |
+|  | 2B Delayed Classic | [FX] | [Delay] | [Algorithmic Delay] |
+|  | 2B Filtered | [FX] | [EQ & Filters] | [Filter] |
+|  | 2B Reverbed | [FX] | [Reverb] | [Algorithmic Reverb] |
+|  | 2B Shaped Filter | [FX] | [EQ & Filters] | [Filter] |
+|  | 2B SlimVerb | [FX] | [Reverb] | [Algorithmic Reverb] |
+|  | QFX Color | [FX] | [EQ & Filters] | [Filter] |
+|  | QFX Cube | [FX] | [Reverb] | [Algorhithmic Reverb] |
+|  | QFX Mash | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
+|  | QFX Echo | [FX] | [Delay] | [Algorhithmic Delay] |
+|  | QFX Smush | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
+|  | QFX Wax | [FX] | [Enhancers] | [Oneknob] |
+|  | SlimVerb | [FX] | [Reverb] | [Algorithmic Reverb] |
+| A1Audio | A1PrimeDelay | [FX] | [Delay] | [Analog Delay] |
+| Acon Digital | Acon Digital Limit | [FX] | [Dynamics] | [Limiter] |
+| Acustica Audio | Cerise | [FX] | Mixing Console] | [Channel Strips] |
+| AIR Music Tech | AIR Amp Sim | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+|  | AIR Channel Strip | [FX] | [Mixing Console] | [Channel Strips] |
+|  | AIR Multiband Filterbank | [FX] | [EQ & Filters] | [Filter] |
+|  | AIR Pitch Shifter | [FX] | [Pitch & Time] | [Pitch Shifter] |
+|  | AIR Stutter | [FX] | [Special FX] |  |
+|  | AIR Tape Double Track | [FX] | [Modulation FX] | [Chorus & Ensemble] |
+|  | AIR Transient | [FX] | [Dynamics] | [Transient Shaper] |
+|  | Fly Tape II | [FX] | [Drive & Color] | [Drive & Color]  |
+
+| AngelicVibes | :--- | :--- | :--- | :--- |
+| Antares | :--- | :--- | :--- | :--- |
+| Apogee | :--- | :--- | :--- | :--- |
 | Applied Acoustics Systems | Lounge Lizard Session 4 | [Inst] | [Piano & Keys] → [Electric Piano] |
 |   | Objeq Delay | [FX] | [Delay] → [Special Delay] |
 |   | Strum Session 2 | [Inst] | [Guitar & Plucked] |
@@ -34,6 +55,7 @@ This repository is created to collect information about vst plugins and digital 
 | Artists in DSP | - | [FX] | [Delay] → [Special Delay] |
 | Arturia | - | [FX] | [Delay] → [Special Delay] |
 | Audified | :--- | :--- | :--- |
+| Audio Assault | :--- | :--- | :--- |
 | Audiolatry | :--- | :--- | :--- |
 | AudioThing | - | [FX] | [Delay] → [Special Delay] |
 | Aurora DSP  | :--- | :--- | :--- |
