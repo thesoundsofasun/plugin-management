@@ -26,6 +26,7 @@ This repository is created to collect information about vst plugins and digital 
 |  | 2B Reverbed | [FX] | [Reverb] | [Algorithmic Reverb] |
 |  | 2B Shaped Filter | [FX] | [EQ & Filters] | [Filter] |
 |  | 2B SlimVerb | [FX] | [Reverb] | [Algorithmic Reverb] |
+|  | 2B SlimVerb2 | [FX] | [Reverb] | [Algorithmic Reverb] |
 |  | QFX Color | [FX] | [EQ & Filters] | [Filter] |
 |  | QFX Cube | [FX] | [Reverb] | [Algorhithmic Reverb] |
 |  | QFX Mash | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
