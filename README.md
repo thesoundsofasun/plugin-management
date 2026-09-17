@@ -63,13 +63,15 @@ This repository is created to collect information about vst plugins and digital 
 |  | Pre 1973 | [FX] | [Mixing Console] | [Pre-Amp] |
 |  | Rev PLATE-140 | [FX] | [Reverb] | [Plate Reverb] |
 |  | Tape MELLO-FI | [FX] | [Drive & Color] | [Tape] |
+| Audified | GK Amplification 3 LE | [FX] | [Guitar Amps & Pedals] | [Bass Amp] |
+|  | Linda IronVerb CM | [FX] | [Reverb] | [Algorithmic Reverb] |
+|  | ToneSpot CM | [FX] | [Enhancers] | |
+| Audio Assault | AmpLocker98 | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+| (Amp Locker-Reamp) | Hi-Clean | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+| (Amp Locker-Reamp) | Invicto | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+| (Amp Locker-Reamp) | Kovra | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+| (Amp Locker-Reamp) | Special Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 
-
-
-
-
-| Audified | :--- | :--- | :--- |
-| Audio Assault | :--- | :--- | :--- |
 | Audiolatry | :--- | :--- | :--- |
 | AudioThing | - | [FX] | [Delay] → [Special Delay] |
 | Aurora DSP  | :--- | :--- | :--- |
