@@ -25,8 +25,6 @@ This repository is created to collect information about vst plugins and digital 
 |  | 2B Filtered | [FX] | [EQ & Filters] | [Filter] |
 |  | 2B Reverbed | [FX] | [Reverb] | [Algorithmic Reverb] |
 |  | 2B Shaped Filter | [FX] | [EQ & Filters] | [Filter] |
-|  | 2B SlimVerb | [FX] | [Reverb] | [Algorithmic Reverb] |
-|  | 2B SlimVerb2 | [FX] | [Reverb] | [Algorithmic Reverb] |
 |  | QFX Color | [FX] | [EQ & Filters] | [Filter] |
 |  | QFX Cube | [FX] | [Reverb] | [Algorhithmic Reverb] |
 |  | QFX Mash | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
@@ -34,6 +32,7 @@ This repository is created to collect information about vst plugins and digital 
 |  | QFX Smush | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
 |  | QFX Wax | [FX] | [Enhancers] | [Oneknob] |
 |  | SlimVerb | [FX] | [Reverb] | [Algorithmic Reverb] |
+|  | SlimVerb 2 | [FX] | [Reverb] | [Algorithmic Reverb] |
 | A1Audio | A1PrimeDelay | [FX] | [Delay] | [Analog Delay] |
 | Acon Digital | Acon Digital Limit | [FX] | [Dynamics] | [Limiter] |
 | Acustica Audio | Cerise | [FX] | Mixing Console] | [Channel Strips] |
