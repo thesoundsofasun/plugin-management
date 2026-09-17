@@ -77,13 +77,17 @@ This repository is created to collect information about vst plugins and digital 
 |  | Things Fold | [FX] | [Drive & Color] | [Waveshapers] |
 |  | Things Texture | [FX] | [Reverb] | [Granular Reverb] |
 |  | Valves | [FX] | [Drive & Color] | [Tube] |
+| Aurora DSP  | [FX] | [EQ & Filters] | [Analog EQ] |
+| Baby Audio | Comeback Kid | [FX] | [Delay] | [Analog Delay] |
+|  | I Heart NY | [FX] | [Dynamics] | [Transient Shaper] |
+|  | Spaced Out| [FX] | [Reverb] | [Algorithmic Reverb] |
+|  | Super VHS | [FX] | [Drive & Color] | [Tape] |
+|  | TAIP | [FX] | [Drive & Color] | [Tape] |
+| BeatSkillz | Chorust | [FX] | [Modulation FX] | [Chorus & Ensemble] |
+| Black Rooster Audio | VPRE-73 Halloween Edition | [FX] | [Mixing Console] | [Pre-Amp] |
+| BunkerNoise | BitLoser | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
+| Cableguys | Timeshaper | [FX] | [Delay] | [Special FX] | [Tape Stop] |
 
-| Aurora DSP  | :--- | :--- | :--- |
-| Baby Audio | - | [FX] | [Delay] → [Special Delay] |
-| BeatSkillz | :--- | :--- | :--- |
-| Black Rooster Audio | :--- | :--- | :--- |
-| BunkerNoise | :--- | :--- | :--- |
-| Cableguys | - | [FX] | [Delay] → [Special Delay] |
 | Caelum Audio | :--- | :--- | :--- |
 | Cherry Audio | - | [FX] | [Delay] → [Special Delay] |
 | Clark Audio | :--- | :--- | :--- |
