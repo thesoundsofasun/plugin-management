@@ -67,10 +67,10 @@ This repository is created to collect information about vst plugins and digital 
 |  | Linda IronVerb CM | [FX] | [Reverb] | [Algorithmic Reverb] |
 |  | ToneSpot CM | [FX] | [Enhancers] | |
 | Audio Assault | AmpLocker98 | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
-| (Amp Locker-Reamp) | Hi-Clean | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
-| (Amp Locker-Reamp) | Invicto | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
-| (Amp Locker-Reamp) | Kovra | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
-| (Amp Locker-Reamp) | Special Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+|  |(Amp Locker-Reamp) Hi-Clean | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+|  |(Amp Locker-Reamp) Invicto | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+|  |(Amp Locker-Reamp) Kovra | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+|  | (Amp Locker-Reamp)Special Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 
 | Audiolatry | :--- | :--- | :--- |
 | AudioThing | - | [FX] | [Delay] → [Special Delay] |
