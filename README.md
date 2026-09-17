@@ -72,8 +72,12 @@ This repository is created to collect information about vst plugins and digital 
 |  |(Amp Locker-Reamp) Kovra | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 |  | (Amp Locker-Reamp)Special Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 | Audiolatry | RetroSynth | [Inst] | [Rompler] | [Synthesizers] |
+| AudioThing | Things Crusher | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
+|  | Things Flip EQ | [FX] | [EQ & Filters] | [Special EQ] |
+|  | Things Fold | [FX] | [Drive & Color] | [Waveshapers] |
+|  | Things Texture | [FX] | [Reverb] | [Granular Reverb] |
+|  | Valves | [FX] | [Drive & Color] | [Tube] |
 
-| AudioThing | - | [FX] | [Delay] → [Special Delay] |
 | Aurora DSP  | :--- | :--- | :--- |
 | Baby Audio | - | [FX] | [Delay] → [Special Delay] |
 | BeatSkillz | :--- | :--- | :--- |
