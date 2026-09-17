@@ -71,8 +71,8 @@ This repository is created to collect information about vst plugins and digital 
 |  |(Amp Locker-Reamp) Invicto | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 |  |(Amp Locker-Reamp) Kovra | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 |  | (Amp Locker-Reamp)Special Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+| Audiolatry | RetroSynth | [Inst] | [Rompler] | [Synthesizers] |
 
-| Audiolatry | :--- | :--- | :--- |
 | AudioThing | - | [FX] | [Delay] → [Special Delay] |
 | Aurora DSP  | :--- | :--- | :--- |
 | Baby Audio | - | [FX] | [Delay] → [Special Delay] |
