@@ -72,6 +72,22 @@ This repository is created to collect information about vst plugins and digital 
 |  |(Amp Locker-Reamp) Kovra | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 |  | (Amp Locker-Reamp)Special Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 | Audiolatry | RetroSynth | [Inst] | [Rompler] | [Synthesizers] |
+| Audioloom | 8K | [FX] | [Rompler] | [Synthesizers] |
+|  | AirXciter | [FX] | [Rompler] | [Synthesizers] |
+|  | Box Of Color 1 | [FX] | [Rompler] | [Synthesizers] |
+|  | Busboy | [FX] | [Rompler] | [Synthesizers] |
+|  | Double Dare | [FX] | [Rompler] | [Synthesizers] |
+|  | Epicizer | [FX] | [Rompler] | [Synthesizers] |
+|  | ExoDelay | [FX] | [Rompler] | [Synthesizers] |
+|  | Honeycomb Bass OD | [FX] | [Rompler] | [Synthesizers] |
+|  | MENACE | [FX] | [Rompler] | [Synthesizers] |
+|  | POLYRESONATOR | [FX] | [Rompler] | [Synthesizers] |
+|  | Portable Mono Speaker Check | [FX] | [Rompler] | [Synthesizers] |
+|  | Sssh | [FX] | [Rompler] | [Synthesizers] |
+|  | The Util | [FX] | [Rompler] | [Synthesizers] |
+|  | Threepeat | [FX] | [Rompler] | [Synthesizers] |
+
+
 | AudioThing | Things Crusher | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
 |  | Things Flip EQ | [FX] | [EQ & Filters] | [Special EQ] |
 |  | Things Fold | [FX] | [Drive & Color] | [Waveshapers] |
@@ -149,7 +165,10 @@ This repository is created to collect information about vst plugins and digital 
 | Puremagnetik | - | [FX] | [Delay] → [Special Delay] |
 | Rhodes | :--- | :--- | :--- |
 | Rob Papen | :--- | :--- | :--- |
-| Safari Pedals | - | [FX] | [Delay] → [Special Delay] |
+| Safari Pedals | Gorilla Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Pedals] |
+| | HAWK Phaser | [FX] | [Guitar Amps & Pedals] | [Guitar Pedals] |
+| | Rhino Reverb | [FX] | [Reverb] | [Spring Reverb] |
+| | Time Machine | [FX] | [Dynamics] | [Analog Compressor] |
 | Schulz Audio | :--- | :--- | :--- |
 | Softube | - | [FX] | [Delay] → [Special Delay] |
 | Sonible | :--- | :--- | :--- |
@@ -166,7 +185,17 @@ This repository is created to collect information about vst plugins and digital 
 | Thenatan | :--- | :--- | :--- |
 | Tone Empire | :--- | :--- | :--- |
 | Traction | :--- | :--- | :--- |
-| UnitedPlugins | :--- | :--- | :--- |
+| UnitedPlugins | Autoformer | [FX] | [Mixing Console] | [Channel Strips] |
+|  | Bassment Core | [FX] | [Guitar Amps & Pedals] | [Bass Amp] |
+|  | Electrum Core | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+|  | Firecharger | [FX] | [Drive & Color] | [Saturation] |
+|  | Firemaximizer | [FX] | [Drive & Color] | [Saturation] |
+|  | Firepresser | [FX] | [Dynamics] | [Analog Comperessor] |
+|  | Orbitron CM | [FX] | [Modulation FX] |  |
+|  | Urban Puncher | [FX] | [Dynamics] | [Transient Shaper] |
+|  | VoxDucker | [FX] | [Dynamics] | [Sidechain Dynamics] |
+|  | WideFire | [FX] | [Stereo Width] | [Stereo Imager] |
+
 | Universal Audio | - | [FX] | [Delay] → [Special Delay] |
 | Vienna Symphonic Library (VSL) | :--- | :--- | :--- |
 | W.A. Production | :--- | :--- | :--- |
