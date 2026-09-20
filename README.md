@@ -86,8 +86,6 @@ This repository is created to collect information about vst plugins and digital 
 |  | Sssh | [FX] | [Dynamics] | [De-Esser] |
 |  | The Util | [FX] | [Utilities] | [Gain & Pan] |
 |  | Threepeat | [FX] | [Delay] | [Algorithmic Delay] |
-
-
 | AudioThing | Things Crusher | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
 |  | Things Flip EQ | [FX] | [EQ & Filters] | [Special EQ] |
 |  | Things Fold | [FX] | [Drive & Color] | [Waveshapers] |
@@ -108,6 +106,8 @@ This repository is created to collect information about vst plugins and digital 
 | Cherry Audio | - | [FX] | [Delay] → [Special Delay] |
 | Clark Audio | :--- | :--- | :--- |
 | Cymatics | :--- | :--- | :--- |
+| DataMind Audio | Concatenator Mini | [FX] | [Special FX] | [Texturizer] |
+
 | Denise Audio | - | [FX] | [Delay] → [Special Delay] |
 | DSPTone | :--- | :--- | :--- |
 | Eventide Audio | - | [FX] | [Delay] → [Special Delay] |
