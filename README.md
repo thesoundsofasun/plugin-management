@@ -72,20 +72,20 @@ This repository is created to collect information about vst plugins and digital 
 |  |(Amp Locker-Reamp) Kovra | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 |  | (Amp Locker-Reamp)Special Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 | Audiolatry | RetroSynth | [Inst] | [Rompler] | [Synthesizers] |
-| Audioloom | 8K | [FX] | [Rompler] | [Synthesizers] |
-|  | AirXciter | [FX] | [Rompler] | [Synthesizers] |
-|  | Box Of Color 1 | [FX] | [Rompler] | [Synthesizers] |
-|  | Busboy | [FX] | [Rompler] | [Synthesizers] |
-|  | Double Dare | [FX] | [Rompler] | [Synthesizers] |
-|  | Epicizer | [FX] | [Rompler] | [Synthesizers] |
-|  | ExoDelay | [FX] | [Rompler] | [Synthesizers] |
-|  | Honeycomb Bass OD | [FX] | [Rompler] | [Synthesizers] |
-|  | MENACE | [FX] | [Rompler] | [Synthesizers] |
-|  | POLYRESONATOR | [FX] | [Rompler] | [Synthesizers] |
-|  | Portable Mono Speaker Check | [FX] | [Rompler] | [Synthesizers] |
-|  | Sssh | [FX] | [Rompler] | [Synthesizers] |
-|  | The Util | [FX] | [Rompler] | [Synthesizers] |
-|  | Threepeat | [FX] | [Rompler] | [Synthesizers] |
+| Audioloom | 8K | [FX] | [Mixing Console] | [Pre-Amp] |
+|  | AirXciter | [FX] | [Enhancers] | [Air/Presence] |
+|  | Box Of Color 1 | [FX] | [Special FX] | [Multi-FX] |
+|  | Busboy | [FX] | [Mixing Console] | [Channel Strips] |
+|  | Double Dare | [FX] | [Stereo Width] | [Doubler] |
+|  | Epicizer | [FX] | [Special FX] |  |
+|  | ExoDelay | [FX] | [Delay] | [Analog Delay] |
+|  | Honeycomb Bass OD | [FX] | [Guitar Amps & Pedals] | [Guitar Pedals] |
+|  | MENACE | [FX] | [Drive & Color] | [Distortion & Fuzz] |
+|  | POLYRESONATOR | [FX] | [EQ & Filters] | [Resonator] |
+|  | Portable Mono Speaker Check | [FX] | [Utilities] | [Environment Simulation] |
+|  | Sssh | [FX] | [Dynamics] | [De-Esser] |
+|  | The Util | [FX] | [Utilities] | [Gain & Pan] |
+|  | Threepeat | [FX] | [Delay] | [Algorithmic Delay] |
 
 
 | AudioThing | Things Crusher | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
