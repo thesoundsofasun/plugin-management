@@ -183,7 +183,10 @@ This repository is created to collect information about vst plugins and digital 
 | Techivation | :--- | :--- | :--- |
 | The Crow Hill Company | :--- | :--- | :--- |
 | Thenatan | :--- | :--- | :--- |
-| Tone Empire | :--- | :--- | :--- |
+| Tone Empire | EDYN | [FX] | [Mixing Console] | [Pre-Amp] |
+|  | LAM16 | [FX] | [Mixing Console] | [Pre-Amp] |
+|  | Neural Q | [FX] | [Mixing Console] | [Pre-Amp] |
+|  | OptoRED | [FX] | [Dynamics] | [Analog Comperessor] |
 | Traction | :--- | :--- | :--- |
 | UnitedPlugins | Autoformer | [FX] | [Mixing Console] | [Channel Strips] |
 |  | Bassment Core | [FX] | [Guitar Amps & Pedals] | [Bass Amp] |
