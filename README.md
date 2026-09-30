@@ -149,7 +149,9 @@ This repository is created to collect information about vst plugins and digital 
 | Moog Music | - | [FX] | [Delay] → [Special Delay] |
 | Native Instruments | - | [FX] | [Delay] → [Special Delay] |
 | Nembrini Audio | :--- | :--- | :--- |
-| NoiseAsh | :--- | :--- | :--- |
+| NoiseAsh | Backs EQ (Baxandall) | [FX] | [EQ & Filters] | [Analog EQ] |
+| - | Heater v2 | [FX] | [Drive & Color] | [Saturation] |
+| - | NEED 73 Console EQ | [FX] | [EQ & Filters] | [Analog EQ] |
 | NoiseWorks | :--- | :--- | :--- |
 | Nugen Audio | :--- | :--- | :--- |
 | Nugen Audio | :--- | :--- | :--- |
