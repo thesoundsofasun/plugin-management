@@ -168,6 +168,7 @@ This repository is created to collect information about vst plugins and digital 
 | Safari Pedals | Gorilla Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Pedals] |
 | | HAWK Phaser | [FX] | [Guitar Amps & Pedals] | [Guitar Pedals] |
 | | Rhino Reverb | [FX] | [Reverb] | [Spring Reverb] |
+| | The Camel Strip | [FX] | [Mixing Console] | [Channel Strips] |
 | | Time Machine | [FX] | [Dynamics] | [Analog Compressor] |
 | Schulz Audio | :--- | :--- | :--- |
 | Softube | - | [FX] | [Delay] → [Special Delay] |
