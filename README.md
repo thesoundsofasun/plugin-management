@@ -84,6 +84,7 @@ This repository is created to collect information about vst plugins and digital 
 |  | POLYRESONATOR | [FX] | [EQ & Filters] | [Resonator] |
 |  | Portable Mono Speaker Check | [FX] | [Utilities] | [Environment Simulation] |
 |  | Sssh | [FX] | [Dynamics] | [De-Esser] |
+|  | Stereoize | [FX] | [Stereo Width] | [Stereo Imager] |
 |  | The Util | [FX] | [Utilities] | [Gain & Pan] |
 |  | Threepeat | [FX] | [Delay] | [Algorithmic Delay] |
 | AudioThing | Things Crusher | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
