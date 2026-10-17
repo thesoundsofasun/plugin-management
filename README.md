@@ -161,6 +161,11 @@ This repository is created to collect information about vst plugins and digital 
 | Pitch Innovations | :--- | :--- | :--- |
 | Plugin Alliance | - | [FX] | [Delay] → [Special Delay] |
 | Plugin Boutique | :--- | :--- | :--- |
+| Pointless Audio (Gumroad) | BucketMan | [FX] | [Modulation FX] | [Chorus & Ensemble] |
+| - | Compatto | [Inst] | [Piano & Keys] | [Electric Piano] |
+| - | Ferrotank | [FX] | [Reverb] | [Spring Reverb] |
+| - | PortaTwin | [FX] | [Drive & Color] | [Tape] |
+| - | SnakePit | [FX] | [Mixing Console] | [Channel Strips] |
 | Positive Grid | :--- | :--- | :--- |
 | PreSonus | :--- | :--- | :--- |
 | Pulsar Audio | - | [FX] | [Delay] → [Special Delay] |
