@@ -113,7 +113,6 @@ This repository is created to collect information about vst plugins and digital 
 | Dystopian Waves (gumroad) | DroX II | [FX] | [Special FX] | Glitch |
 | Eventide Audio | - | [FX] | [Delay] → [Special Delay] |
 | Ewan Bristow | UZU | [FX] | [Modulation FX] | Phaser |
-
 | Excite Audio | Bloom Choir Lite | [Inst] | [Romplers] | [Vocals] |
 | - | Bloom Bass Groove Lite | [Inst] | [Romplers] | [Bass] |
 | - | Bloom Bass Impulse Lite | [Inst] | [Romplers] | [Synthesizers] |
@@ -131,18 +130,37 @@ This repository is created to collect information about vst plugins and digital 
 | - | Lifeline Format Module | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
 | - | Motion Dimension Lite | [FX] | [Delay] | [Special Delay] |
 | - | Motion Fractal Lite | [FX] | [Delay] | [Special Delay] |
-
-
-
-
-
-| Fine Classics Plugins | :--- | :--- | :--- |
+| Fine Classics Plugins | Fine Classics Saturator | [FX] | [Drive & Color] | [Saturation] |
 | Focusrite | :--- | :--- | :--- |
 | Future Audio Workshop | - | [FX] | [Delay] → [Special Delay] |
 | GForce Software  | :--- | :--- | :--- |
 | Glitchmachines | - | [FX] | [Delay] → [Special Delay] |
 | Heavyocity | :--- | :--- | :--- |
-| HoRNet | - | [FX] | [Delay] → [Special Delay] |
+| HoRNet | HoRNet 3XOver | [FX] | [EQ & Filters] | [Filter] |
+| - | Corrosion | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
+| - | HAnalogStageMK2 | [FX] | [Mixing Console] | [Pre-Amp] |
+| - | HatefishRhyGenerator | [MIDI FX] | [Euclidean Rhythm] | |
+| - | HoRNet Butterfly | [FX] | [Mastering] | |
+| - | HoRNet Cassette644 | [FX] | [Drive & Color] | [Tape] |
+| - | HoRNet DeeLay | [FX] | [Delay] | [Analog Delay] |
+| - | HoRNet ELM128MK2 | [FX] | [Utilities] | [Loudness Meter] |
+| - | HoRNet Filter Solo | [FX] | [EQ & Filters] | [Filter] |
+| - | HoRNet Graffio | [FX] | [Drive & Color] | [Saturation] |
+| - | HoRNet H4K Bus Compressor (VCA) | [FX] | [Dynamics] | [Analog Compressor] |
+| - | HoRNet HA2A (OPTO) | [FX] | [Dynamics] | [Analog Compressor] |
+| - | HoRNet HarmonicsPro | [FX] | [Drive & Color] | [Waveshapers] |
+| - | HoRNet HTS9 | [FX] | [Guitar Amps & Pedals] | [Guitar Pedals] |
+| - | HoRNet MultiFreqs | [FX] | [Utilities] | [Frequency Analyzer] |
+| - | HoRNet Planer | [FX] | [Drive & Color] | [Clipper] |
+| - | HoRNet Spikes | [FX] | [Dynamics] | [Transient Shaper] |
+| - | HoRNet SW34EQ MK2 | [FX] | [EQ & Filters] | [Analog EQ] |
+| - | HoRNet Sybilla | [FX] | [Dynamics] | [De-Esser] |
+| - | HoRNet Tape MK2 | [FX] | [Drive & Color] | [Tape] |
+| - | HoRNet Total EQ | [FX] | [EQ & Filters] | [Parametric EQ] |
+| - | HoRNet Total EQ MK2 | [FX] | [EQ & Filters] | [Parametric EQ] |
+| - | HoRNet TrackUtility MK2 | [FX] | [Utilities] | [Gain & Pan] |
+| - | HoRNet VHS | [FX] | [Utilities] | [Environment Simulation] |
+| - | HoRNet VU Meter MK2 | [FX] | [Utilities] | [Loudness Meter] |
 | IK Multimedia | - | [FX] | [Delay] → [Special Delay] |
 | Inphonik | :--- | :--- | :--- |
 | Inspired Acoustics  | :--- | :--- | :--- |
