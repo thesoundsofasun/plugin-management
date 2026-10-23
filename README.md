@@ -216,7 +216,21 @@ This repository is created to collect information about vst plugins and digital 
 
 | Universal Audio | - | [FX] | [Delay] → [Special Delay] |
 | Vienna Symphonic Library (VSL) | :--- | :--- | :--- |
-| W.A. Production | :--- | :--- | :--- |
+
+| W.A. Production | Biggifier | [FX] | [Enhancers] | [One Knob] |
+| - | DJFX | [FX] | [Special FX] | - |
+| - | Helper Equalizer 2 | [FX] | [EQ & Filters] | [Parametric EQ] |
+| - | Helper Saturator 2 | [FX] | [Drive & Color] | [Saturation] |
+| - | Helper Transients 2 | [FX] | [Dynamics] | [Transient Shaper] |
+| - | MultiBender Lite | [FX] | :--- | :--- |
+| - | Obsidian | [FX] | [Delay] | [Special Delay] |
+| - | Pumper 3 | [FX] | [Dynamics] | - |
+| - | Puncher 2 | [FX] | [Dynamics] | [Transient Shaper] |
+| - | Satyrus | [FX] | [Drive & Color] | [Saturation] |
+| - | Screamo | [FX] | [Drive & Color] | [Distortion & Fuzz] |
+| - | Vocal Compressor | [FX] | [Enhancers] | [Vocals] |
+| - | Vocal Limiter | [FX] | [Enhancers] | [Vocals] |
+
 | Waldorf | :--- | :--- | :--- |
 | Waves | :--- | :--- | :--- |
 | XLN Audio | :--- | :--- | :--- |
