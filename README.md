@@ -164,7 +164,14 @@ This repository is created to collect information about vst plugins and digital 
 | IK Multimedia | - | [FX] | [Delay] → [Special Delay] |
 | Inphonik | :--- | :--- | :--- |
 | Inspired Acoustics  | :--- | :--- | :--- |
-| iZotope | - | [FX] | [Delay] → [Special Delay] |
+| iZotope | Audiolens | [Standalone] | | |
+| - | Nectar Elements | [FX] | [Vocal Processing] | |
+| - | Neutron Elements | [FX] | [Mixing Console] | [FX Rack] |
+| - | Ozone Elements | [FX] | [Mastering] | |
+| - | Tonal Balance Control 2 | [FX] | [Utilities] | [Frequency Analyzer] |
+| - | Trash 2 | [FX] | [Drive & Color] | [Waveshaper] |
+| - | Relay | [FX] | [Utilities] | [Gain & Pan] |
+| - | VEA | [FX] | [Enhancers] | [Vocals] |
 | Joey Sturgis Tones | :--- | :--- | :--- |
 | Karanyi Sounds | :--- | :--- | :--- |
 | Kilohearts | - | [FX] | [Delay] → [Special Delay] |
