@@ -102,13 +102,11 @@ This repository is created to collect information about vst plugins and digital 
 | Black Rooster Audio | VPRE-73 Halloween Edition | [FX] | [Mixing Console] | [Pre-Amp] |
 | BunkerNoise | BitLoser | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
 | Cableguys | Timeshaper | [FX] | [Delay] | [Special FX] | [Tape Stop] |
-
 | Caelum Audio | :--- | :--- | :--- |
 | Cherry Audio | - | [FX] | [Delay] → [Special Delay] |
 | Clark Audio | :--- | :--- | :--- |
 | Cymatics | :--- | :--- | :--- |
 | DataMind Audio | Concatenator Mini | [FX] | [Special FX] | [Texturizer] |
-
 | Denise Audio | - | [FX] | [Delay] → [Special Delay] |
 | DSPTone | :--- | :--- | :--- |
 | Eventide Audio | - | [FX] | [Delay] → [Special Delay] |
@@ -133,7 +131,6 @@ This repository is created to collect information about vst plugins and digital 
 | - | Revolve | [FX] | [Reverb] → [Convolution Reverb] |
 | - | R0Verb | [FX] | [Delay] → [Special Delay] |
 | - | [Stark CM](https://drive.google.com/file/d/1kBHU9ZnEZW2loSFtyUuWxOfsJ7QVV7HS/view?usp=sharing) | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
-
 | KV331 Audio | :--- | :--- | :--- |
 | LANDR | :--- | :--- | :--- |
 | Lunacy Audio | :--- | :--- | :--- |
@@ -213,10 +210,8 @@ This repository is created to collect information about vst plugins and digital 
 |  | Urban Puncher | [FX] | [Dynamics] | [Transient Shaper] |
 |  | VoxDucker | [FX] | [Dynamics] | [Sidechain Dynamics] |
 |  | WideFire | [FX] | [Stereo Width] | [Stereo Imager] |
-
 | Universal Audio | - | [FX] | [Delay] → [Special Delay] |
 | Vienna Symphonic Library (VSL) | :--- | :--- | :--- |
-
 | W.A. Production | Biggifier | [FX] | [Enhancers] | [One Knob] |
 | - | ChromaBox | [FX] | [Enhancers] | [Air/Presence] |
 | - | Combustor | [FX] | [Dynamics] | - |
@@ -240,7 +235,6 @@ This repository is created to collect information about vst plugins and digital 
 | - | Vocal Compressor | [FX] | [Enhancers] | [Vocals] |
 | - | Vocal Limiter | [FX] | [Enhancers] | [Vocals] |
 | - | Vocal Splitter | [FX] | [Enhancers] | [Vocals] |
-
 | Waldorf | :--- | :--- | :--- |
 | Waves | :--- | :--- | :--- |
 | XLN Audio | :--- | :--- | :--- |
