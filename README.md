@@ -67,9 +67,9 @@ This repository is created to collect information about vst plugins and digital 
 |  | Linda IronVerb CM | [FX] | [Reverb] | [Algorithmic Reverb] |
 |  | ToneSpot CM | [FX] | [Enhancers] | |
 | Audio Assault | AmpLocker98 | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
-|  |(Amp Locker-Reamp) Hi-Clean | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
-|  |(Amp Locker-Reamp) Invicto | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
-|  |(Amp Locker-Reamp) Kovra | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+|  | (Amp Locker-Reamp) Hi-Clean | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+|  | (Amp Locker-Reamp) Invicto | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
+|  | (Amp Locker-Reamp) Kovra | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 |  | (Amp Locker-Reamp)Special Drive | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
 | Audiolatry | RetroSynth | [Inst] | [Rompler] | [Synthesizers] |
 | Audioloom | 8K | [FX] | [Mixing Console] | [Pre-Amp] |
@@ -92,7 +92,7 @@ This repository is created to collect information about vst plugins and digital 
 |  | Things Fold | [FX] | [Drive & Color] | [Waveshapers] |
 |  | Things Texture | [FX] | [Reverb] | [Granular Reverb] |
 |  | Valves | [FX] | [Drive & Color] | [Tube] |
-| Aurora DSP  | [FX] | [EQ & Filters] | [Analog EQ] |
+| Aurora DSP | Mammoth | [FX] | [Guitar Amps & Pedals] | [Bass Amp] |
 | Baby Audio | Comeback Kid | [FX] | [Delay] | [Analog Delay] |
 |  | I Heart NY | [FX] | [Dynamics] | [Transient Shaper] |
 |  | Spaced Out| [FX] | [Reverb] | [Algorithmic Reverb] |
@@ -103,14 +103,39 @@ This repository is created to collect information about vst plugins and digital 
 | BunkerNoise | BitLoser | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
 | Cableguys | Timeshaper | [FX] | [Delay] | [Special FX] | [Tape Stop] |
 | Caelum Audio | :--- | :--- | :--- |
+| CARP Audio | Octapus | [FX] | [Pitch & Time] | [Pitch Shifter] |
 | Cherry Audio | - | [FX] | [Delay] → [Special Delay] |
 | Clark Audio | :--- | :--- | :--- |
 | Cymatics | :--- | :--- | :--- |
 | DataMind Audio | Concatenator Mini | [FX] | [Special FX] | [Texturizer] |
 | Denise Audio | - | [FX] | [Delay] → [Special Delay] |
 | DSPTone | :--- | :--- | :--- |
+| Dystopian Waves (gumroad) | DroX II | [FX] | [Special FX] | Glitch |
 | Eventide Audio | - | [FX] | [Delay] → [Special Delay] |
-| Excite Audio | :--- | :--- | :--- |
+| Ewan Bristow | UZU | [FX] | [Modulation FX] | Phaser |
+
+| Excite Audio | Bloom Choir Lite | [Inst] | [Romplers] | [Vocals] |
+| - | Bloom Bass Groove Lite | [Inst] | [Romplers] | [Bass] |
+| - | Bloom Bass Impulse Lite | [Inst] | [Romplers] | [Synthesizers] |
+| - | Bloom Drum Machine Lite | [Inst] | [Romplers] | [Drums] |
+| - | Bloom Drum Percussion Lite | [Inst] | [Romplers] | [Drums] |
+| - | Bloom Mura Masa Lite | [Inst] | [Romplers] | |
+| - | Bloom KSHMR Lite | [Inst] | [Romplers] | [Synthesizers] |
+| - | Bloom Palette Modular Lite | [Inst] | [Romplers] | [Synthesizers] |
+| - | Bloom Synth Atmosphere Lite  | [Inst] | [Romplers] | [Synthesizers] |
+| - | Evolve Alloy | [Inst] | [Romplers] | [Synthesizers] |
+| - | Evolve Alloy Lite | [Inst] | [Romplers] | [Synthesizers] |
+| - | Evolve Elastic Lite | [Inst] | [Romplers] | [Synthesizers] |
+| - | Lifeline Console Lite | [FX] | [Mixing Console] | [FX Rack] |
+| - | Lifeline Expanse Lite | [FX] | [Mixing Console] | [FX Rack] |
+| - | Lifeline Format Module | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
+| - | Motion Dimension Lite | [FX] | [Delay] | [Special Delay] |
+| - | Motion Fractal Lite | [FX] | [Delay] | [Special Delay] |
+
+
+
+
+
 | Fine Classics Plugins | :--- | :--- | :--- |
 | Focusrite | :--- | :--- | :--- |
 | Future Audio Workshop | - | [FX] | [Delay] → [Special Delay] |
