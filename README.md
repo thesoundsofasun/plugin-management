@@ -235,6 +235,7 @@ This repository is created to collect information about vst plugins and digital 
 | - | Vocal Compressor | [FX] | [Enhancers] | [Vocals] |
 | - | Vocal Limiter | [FX] | [Enhancers] | [Vocals] |
 | - | Vocal Splitter | [FX] | [Enhancers] | [Vocals] |
+| - | Zqueezer | [FX] | [EQ & Filters] | [Filter] |
 | Waldorf | :--- | :--- | :--- |
 | Waves | :--- | :--- | :--- |
 | XLN Audio | :--- | :--- | :--- |
