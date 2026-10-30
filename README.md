@@ -250,6 +250,12 @@ This repository is created to collect information about vst plugins and digital 
 |  | Neural Q | [FX] | [Mixing Console] | [Pre-Amp] |
 |  | OptoRED | [FX] | [Dynamics] | [Analog Comperessor] |
 | Traction | :--- | :--- | :--- |
+| UJAM | Finisher RETRO | [FX] | [Special FX] | [Multi-FX] |
+| - | UFX DELAY | [FX] | [Delay] | [Algorithmic Delay] |
+| - | UFX DISTORT | [FX] | [Drive & Color] | [Distortion & Fuzz] |
+| - | UFX LOFI | [FX] | [Drive & Color] | [Bitcrushers & Degraders] |
+| - | Usynth Euphoria | [Inst] | [Romplers] | [Synthesizers] |
+| - | Usynth Deluxe | [Inst] | | [Romplers] | [Synthesizers] |
 | UnitedPlugins | Autoformer | [FX] | [Mixing Console] | [Channel Strips] |
 |  | Bassment Core | [FX] | [Guitar Amps & Pedals] | [Bass Amp] |
 |  | Electrum Core | [FX] | [Guitar Amps & Pedals] | [Guitar Amp] |
